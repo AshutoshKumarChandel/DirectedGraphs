@@ -1,0 +1,12 @@
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/bin/Debug/net5.0/GraphEntities.deps.json
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/bin/Debug/net5.0/GraphEntities.dll
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/bin/Debug/net5.0/ref/GraphEntities.dll
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/bin/Debug/net5.0/GraphEntities.pdb
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/obj/Debug/net5.0/GraphEntities.csprojAssemblyReference.cache
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/obj/Debug/net5.0/GraphEntities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/obj/Debug/net5.0/GraphEntities.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/obj/Debug/net5.0/GraphEntities.AssemblyInfo.cs
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/obj/Debug/net5.0/GraphEntities.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/obj/Debug/net5.0/GraphEntities.dll
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/obj/Debug/net5.0/ref/GraphEntities.dll
+/Users/admin/RiderProjects/DirectedGraphs/GraphEntities/obj/Debug/net5.0/GraphEntities.pdb
